@@ -1,6 +1,6 @@
-module github.com/halfrost/LeetCode-Go/structures
+module github.com/Higurashi09473/Golang-lib/structures
 
-go 1.19
+go 1.22.5
 
 require github.com/stretchr/testify v1.8.0
 

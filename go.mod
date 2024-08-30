@@ -1,6 +1,6 @@
-module github.com/halfrost/LeetCode-Go
+module github.com/Higurashi09473/Golang-lib
 
-go 1.19
+go 1.22.5
 
 replace github.com/halfrost/LeetCode-Go/structures => ./structures
 
@@ -14,8 +14,6 @@ require (
 	github.com/BurntSushi/toml v1.2.0
 	github.com/halfrost/LeetCode-Go/ctl/models v0.0.0-20220910225043-e3bb5aff34d0
 	github.com/halfrost/LeetCode-Go/ctl/util v0.0.0-20220910225043-e3bb5aff34d0
-	github.com/halfrost/LeetCode-Go/structures v0.0.0-20220910233101-aa0e2c897b18
-	github.com/halfrost/LeetCode-Go/template v0.0.0-20220910233504-e2a72e6212ce
 	github.com/mozillazg/request v0.8.0
 	github.com/spf13/cobra v1.5.0
 )
